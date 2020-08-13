@@ -1,6 +1,6 @@
 ---
-title: 'Get In Touch'
-buttonText: 'Say Hello'
+title: 'Contactame!'
+buttonText: 'Saludame!'
 ---
 
-Although I'm not currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+Siempre estoy buscando nuevas oportunidades para crear cosas asombrosas, mi bandeja está abierta. Ya sea que desees preguntarme algo, o simplemente saludarme, haré lo posible por contestar lo más rápido

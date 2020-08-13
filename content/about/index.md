@@ -1,19 +1,18 @@
 ---
-title: 'About Me'
+title: 'Sobre mi'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
+  - PHP
   - HTML & (S)CSS
-  - React
   - Vue
   - Node.js
-  - WordPress
+  - Prestashop
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hola! Soy Daniel, un programador de Guadalajara, Jalisco.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+Disfruto creando cosas que vivan en la web, ya sea sitios web, aplicaciones, contenido o lo que sea que se me atraviese. Mi meta siempre será crear productos de calidad con excelente rendimiento.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Inicie en la programación de manera autodidacta pero también tengo formación con cursos de [Platzi](https://platzi.com), [Udemy](https://udemy.com), [Coursera](https://Cursera.com). Pero no solo he trabajado como programador, también tengo experiencia en servicio al cliente lo que enriquece mi meta
 
-Here are a few technologies I've been working with recently:
+Aquí hay algunas tecnologías que con las que he trabajado
