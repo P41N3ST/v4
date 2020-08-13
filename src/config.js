@@ -1,56 +1,52 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Daniel Garcia | Programador',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Soy un programador de Guadalajara, Jalisco. Especializado en construir (ocacionalmente diseñar y/o analaizar) sitios web, aplicaciones o contenido excepcional.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
-  siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+    'Daniel Garcia, Daniel, Garcia, P41N3ST, software engineer, front-end engineer, web developer, javascript',
+  siteUrl: 'https://dangarcia.netlify.app',
+  siteLanguage: 'es_MX',
+  googleAnalyticsID: 'UA-143028713-1',
+  googleVerification: '',
+  name: 'Daniel Garcia',
+  location: 'Guadalajara, Jalisco',
+  email: 'daniel4581@protonmail.com',
+  github: 'https://github.com/P41N3ST',
+  twitterHandle: '@Almirant4581',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/P41N3ST',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/daniel-garcia-510a6518b',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/dany_munoz01',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/Almirant4581',
     },
   ],
 
   navLinks: [
     {
-      name: 'About',
+      name: 'Acerca',
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Experiencia',
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Trabajo',
       url: '/#projects',
     },
     {
-      name: 'Contact',
+      name: 'Contacto',
       url: '/#contact',
     },
   ],
@@ -58,7 +54,7 @@ module.exports = {
   navHeight: 100,
 
   colors: {
-    green: '#64ffda',
+    green: '#ff4075',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },
