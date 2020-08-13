@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
-buttonText: 'Get In Touch'
+title: 'Hola, mi nombre es'
+name: 'Daniel Garcia'
+subtitle: 'Construyo cosas excepcionales en la web.'
+buttonText: 'Contactame'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+Soy un programador de Guadalajara, Jalisco. Especializado en construir (ocacionalmente diseñar y/o analaizar) sitios web, aplicaciones o contenido excepcional.
