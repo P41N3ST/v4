@@ -69,7 +69,7 @@ module.exports = {
     scale: 1,
     easing: 'cubic-bezier(0.645, 0.045, 0.355, 1)',
     mobile: true,
-    reset: true,
+    reset: false,
     useDelay: 'always',
     viewFactor: 0.25,
     viewOffset: { top: 0, right: 0, bottom: 0, left: 0 },
