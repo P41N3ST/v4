@@ -1,12 +1,12 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2020-05-09'
+title: 'Modificaiones de Saleor'
+github: 'https://github.com/P41N3ST/saleor-platform'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Saleor
+  - GraphQL
+  - Python
+  - E-Commerce
+company: ''
 showInProjects: false
 ---
