@@ -1,15 +1,12 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'https://BWA.com.mx/'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://bwa.com.mx/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Prestashop
+  - Javascript
+  - PHP
 showInProjects: true
 ---
 
