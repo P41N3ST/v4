@@ -1,7 +1,7 @@
 ---
 date: '1'
-title: 'https://BWA.com.mx/'
-cover: './halcyon.png'
+title: 'Informatica BWA'
+cover: './bwa.png'
 external: 'https://bwa.com.mx/'
 tech:
   - Prestashop
