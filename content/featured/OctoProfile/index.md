@@ -1,14 +1,13 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'Comercializadora Ideac'
+cover: './ideac.png'
+external: 'https://ideac.com.mx/store/'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Prestashop
+  - Javascript
+  - PHP
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+En recreación de la página de [Comercializadora Ideac](https://ideac.com.mx/store/) se construye una nueva página con un diseño más actualizado y acorde a la empresa dedicada a la comercialización de equipo de computo de alto rendimiento.

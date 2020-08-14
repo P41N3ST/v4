@@ -2,7 +2,7 @@
 date: '1'
 title: 'Informatica BWA'
 cover: './bwa.png'
-external: 'https://bwa.com.mx/'
+external: 'https://bwa.com.mx/store/'
 tech:
   - Prestashop
   - Javascript
