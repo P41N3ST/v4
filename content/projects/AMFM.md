@@ -1,14 +1,13 @@
 ---
-date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
-github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+date: '2020-11-06'
+title: 'GPT-3 to Gatsby'
+github: 'https://github.com/P41N3ST/gatsby'
+external: ''
 tech:
-  - Ember
-  - JS
-  - SCSS
-company: 'Apple'
+  - Gatsby
+  - Serverless
+  - Api
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+Desarrollo de herramienta para automatización de publicación de AI para Gatsby

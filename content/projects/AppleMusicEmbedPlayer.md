@@ -1,14 +1,13 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+date: '2020-05-28'
+title: ''
+github: 'https://github.com/P41N3ST/code-server'
+external: ''
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
-company: 'Apple'
+  - Coder
+  - Code-Server 
+  - Visual Studio Code
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+Modificación a Code-Server para su despliegue en plataformas personalizadas con entornos "Flat"

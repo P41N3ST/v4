@@ -1,14 +1,14 @@
 ---
-date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+date: '2020-05-09'
+title: 'Modificaiones de Saleor'
+github: 'https://github.com/P41N3ST/saleor-platform'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Saleor
+  - GraphQL
+  - Python
+  - E-Commerce
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+Modificación de la plataforma E-Commerce Saleor para su integración con otros servicios
