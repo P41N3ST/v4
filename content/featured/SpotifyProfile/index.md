@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Highpro'
+cover: './highpro.png'
+external: 'https://highpro.com.mx'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - PHP
+  - SQL
+  - Javascript
+  - Prestashop
+  - API
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Para este proyecto he colaborado para realizar un desarrollo para automatizar la actualización del invetnario y costos de productos.
+Entre proyectos otros proyectos internos de la empresa.
