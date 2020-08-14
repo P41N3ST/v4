@@ -217,7 +217,7 @@ const Projects = ({ data }) => {
       </StyledGrid>
 
       <StyledMoreButton onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
+        Mostrar {showMore ? 'Menos' : 'Más'}
       </StyledMoreButton>
     </StyledContainer>
   );
